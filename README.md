@@ -13,7 +13,7 @@ The focus here is on building and evaluating baseline classification models; Log
 - Target:
 0 → no heart disease, 1 → heart disease.
 
-## Tools and Librarie Used
+## Tools and Libraries Used
 - Language: Python (Visual Studio Code)
 - Libraries:
     - pandas and numpy for data handling
