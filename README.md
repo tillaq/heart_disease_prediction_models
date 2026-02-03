@@ -49,9 +49,7 @@ This project focuses on predicting the presence of heart disease using supervise
 - ROC–AUC: **0.98**
 
 **Observation:**  
-SVM significantly outperformed Logistic Regression, suggesting the presence of non-linear relationships in the dataset. SVM (RBF) achieved higher accuracy and ROC–AUC than Logistic Regression on the test set. 
-- Logistic regression remains more interpretable via coefficients, while SVM provided the best predictive performance in this baseline setup.  
-- Both models showed strong recall, indicating good sensitivity to heart disease cases.
+SVM significantly outperformed Logistic Regression, suggesting the presence of non-linear relationships in the dataset.
 
 ## What I Learned
 - Practical implementation of classification models using scikit-learn
